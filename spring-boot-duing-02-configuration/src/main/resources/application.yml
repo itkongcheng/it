@@ -1,0 +1,18 @@
+server:
+  port: 8090
+
+#food:
+#  rice: 烤肉
+#  meat: 拌饭
+
+food: {meat: 烤肉,rice: 拌饭}
+
+vegetables:
+  potato: 土豆
+  eggplant: 茄子
+  greenpeper: 青椒
+
+beef:
+  celery: 芹菜
+  coriander: 香菜
+  pepper: 辣椒
